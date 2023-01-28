@@ -1,0 +1,6 @@
+html, body, div, canvas {
+    margin: 0 !important; /* get rid of white space around Phaser canvas */
+    padding: 0 !important;
+
+    overflow: hidden; /* Hide scrollbars */
+}

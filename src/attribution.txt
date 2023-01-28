@@ -1,0 +1,19 @@
+Music:
+
+https://opengameart.org/content/rpg-overworld-melodies-of-the-future
+
+World Map:
+
+https://opengameart.org/content/forest-tilemap
+
+Character:
+
+https://www.championofvalor.com/sprites/#
+from:
+https://github.com/gaurav0/Universal-LPC-Spritesheet-Character-Generator
+
+
+Code:
+
+Training from Zenva Academy 
+https://academy.zenva.com/
